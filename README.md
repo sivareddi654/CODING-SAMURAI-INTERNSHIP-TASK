@@ -1,3 +1,16 @@
-Number Guessing Game (GUI) – Python
+# Coding Samurai Python Internship Tasks
 
-Developed a graphical number guessing game using Tkinter. Thprogram randomly selects a number and provides feedback such as “Too High” or “Too Low” based on user input. This project improved my understanding of GUI design, event handling, and logical problem-solving in Python.
+This repository contains Python projects completed as part of the Coding Samurai Python Internship.
+
+## Projects
+
+### 1. Simple Calculator
+A console-based Python calculator that performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+Run using:
+```bash
+python calculator.py
